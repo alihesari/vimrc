@@ -111,7 +111,7 @@ set smartcase
 " Highlight search results
 set hlsearch
 
-" Makes search act like search in modern browsers
+ Makes search act like search in modern browsers
 set incsearch 
 
 " Don't redraw while executing macros (good performance config)
@@ -430,6 +430,3 @@ endfunction
 " if has("autocmd")
 "   au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 "endif
-
-"show line numbers
-set number

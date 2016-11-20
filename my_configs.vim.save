@@ -1,6 +1,3 @@
-"This is my vimrc custom configuration.
-"You can clone my vimrc: https://github.com/alihesari/vimrc
-:colorscheme molokai " Set colorScheme"
 " auto complete for ( , " , ' , [ , { 
 :inoremap        (  ()<Left>
 :inoremap        "  ""<Left>

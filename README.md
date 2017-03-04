@@ -1,5 +1,7 @@
 # My Vimrc screenshots
 ![My_Screenshot 1](https://cloud.githubusercontent.com/assets/8302633/23581063/9b45e9ec-0122-11e7-9928-6185e64d386b.png)
+![My_Screenshot 2](https://cloud.githubusercontent.com/assets/8302633/23581095/29083dfc-0123-11e7-9d71-1913bebe3a63.png)
+![My_Screenshot 3](https://cloud.githubusercontent.com/assets/8302633/23581114/8bb48942-0123-11e7-8ac6-8428a871fabc.png)
 
 # The Ultimate vimrc
 

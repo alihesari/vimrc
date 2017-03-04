@@ -1,3 +1,6 @@
+# My Vimrc screenshots
+![My_Screenshot 1](https://cloud.githubusercontent.com/assets/8302633/23581063/9b45e9ec-0122-11e7-9928-6185e64d386b.png)
+
 # The Ultimate vimrc
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
